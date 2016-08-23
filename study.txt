@@ -11,5 +11,8 @@
 add aha 33333
 동기화 동기화
 
+
 sync - 22
 pusy - 22
+pull - 11
+
