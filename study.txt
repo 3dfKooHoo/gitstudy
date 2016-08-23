@@ -1,12 +1,9 @@
 ﻿<html>
 	header
-	<body><body>
 	header
-	head
-	head
 	<body>
-	heaer
-		git
+	git
+	header
 	header
 	<body>
 </html>
