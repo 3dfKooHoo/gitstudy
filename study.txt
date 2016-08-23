@@ -1,5 +1,15 @@
 <html>
+<<<<<<< HEAD
 	header
 	<body><body>
 	header
+=======
+	head
+	head
+	<body>
+	heaer
+		git
+	header
+	<body>
+>>>>>>> 실험
 </html>
